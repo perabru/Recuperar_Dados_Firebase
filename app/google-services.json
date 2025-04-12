@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "234978722972",
+    "firebase_url": "https://conexaofirebase1004-default-rtdb.firebaseio.com",
+    "project_id": "conexaofirebase1004",
+    "storage_bucket": "conexaofirebase1004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234978722972:android:3963fb60a0417549afd959",
+        "android_client_info": {
+          "package_name": "com.example.conexaofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxGpmFV5lIK73wWNhzNGy_em6jxDwXZl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234978722972:android:dd4f192aa96efe04afd959",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxGpmFV5lIK73wWNhzNGy_em6jxDwXZl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
